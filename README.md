@@ -5,3 +5,4 @@ Features -
 3) IOS like UI.
 
 [![Calculator-Screenshot.png](https://i.postimg.cc/nzqysW22/Calculator-Screenshot.png)](https://postimg.cc/phXG4qg5)
+This is an elegant looking calculator which is capable of doing all your calculative work.
